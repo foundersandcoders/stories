@@ -12,12 +12,12 @@ Copy and paste in their keywords.
 Get their keyword report with the option to have it emailed to them as a PDF.
 The whole process shouldn’t take much more than one minute.
 
-![alt text](/images/1.png)
-![alt text](/images/2.png)
-![alt text](/images/3.png)
+![alt text](/keyword_king/images/1.png)
+![alt text](/keyword_king/images/2.png)
+![alt text](/keyword_king/images/3.png)
 
 ### Technologies Used
-Because Founders and Coders is a Javascript- heavy course, our backend is built in Node.js using the Hapi framework. We have a mongoDB database and are using Joi for data validation. The PDF functionality was done using the Webshot module and we used the Mandrill API to handle emailing reports out to users.
+Because Founders and Coders is a Javascript- heavy course, our backend is built in Node.js using the hapi framework. We have a mongoDB database and are using Joi for data validation. The PDF functionality was done using the Webshot module and we used the Mandrill API to handle emailing reports out to users.
 
 The frontend is more lightweight. We didn’t go with a templating framework so it’s in plain HTML and uses jQuery and vanilla CSS to manage the app’s presentation. There’s a bit of d3.js that powers the pieces of data visualisation in the report and we’re using AJAX to make requests to the iTunes API from the client side.
 
@@ -54,9 +54,10 @@ Right now, the report identifies if you have a problem with your keywords. But i
 
 We could do things that existing tools do, such as:
 
-⋅⋅1. look at competing apps and what keywords work for them.
-⋅⋅1. mine your app’s reviews for frequently mentioned words.
-⋅⋅1. scan tweets about your app.
+1. look at competing apps and what keywords work for them.
+1. mine your app’s reviews for frequently mentioned words.
+1. scan tweets about your app.
+
 It would be interesting if anyone has any suggestions on an innovative way to do this.
 
 
