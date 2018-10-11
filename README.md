@@ -1,6 +1,8 @@
 # Stories
 
-Planning stories for submission to Medium publications and to feature on the Stories page of our new website.
+Planning stories for submission to Medium publications and to feature on the Stories page of our new website. Have a recommendation for someone I should interview? Email rebecca@foundersandcoders.com and briefly explain why. 
+
+Want to write something yourself? Happy to support you at any stage of the process, from brainstorming to revision, copyediting, formatting, and submission on Medium.
 
 ## Objective
 
