@@ -6,7 +6,7 @@ Want to write something yourself? Happy to support you at any stage of the proce
 
 ## Objective
 
-To support the achivement of our [strategic priorities](https://github.com/foundersandcoders/hq/blob/master/strategic-priorities.md) by providing our various users (applicants, employers, Tech for Better clients, Tech for Better funders) with in-depth information about what we do and why we do it.
+To support the achievement of our [strategic priorities](https://github.com/foundersandcoders/hq/blob/master/strategic-priorities.md) by providing our various users (applicants, employers, Tech for Better clients, Tech for Better funders) with in-depth information about what we do and why we do it.
 
 ## Published
 
