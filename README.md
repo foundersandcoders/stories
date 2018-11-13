@@ -18,3 +18,6 @@ _How Becky Botha and Johanna Herman learnt to code and launched Workerbird, a Te
 
 ["The biggest challenge is checking yourself at the door"](https://medium.com/founders-coders/user-journey-matt-king-9ee447cff990)  
 _Matt King talks about his experiences mentoring and facilitating at Founders and Coders in London and abroad_
+
+["Connecting the Dots - a Story of Learning to Code and Giving Back"](https://medium.freecodecamp.org/connecting-the-dots-a-story-of-learning-to-code-and-giving-back-c8867cdffcb1)   
+_Fatimat Gbajabiamila talks about challenging stereotypes, her love for pair programming, and why she’s committed to giving back_
