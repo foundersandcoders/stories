@@ -21,3 +21,9 @@ _Matt King talks about his experiences mentoring and facilitating at Founders an
 
 ["Connecting the Dots - a Story of Learning to Code and Giving Back"](https://medium.freecodecamp.org/connecting-the-dots-a-story-of-learning-to-code-and-giving-back-c8867cdffcb1)   
 _Fatimat Gbajabiamila talks about challenging stereotypes, her love for pair programming, and why she’s committed to giving back_
+
+["How two friends changed careers, learned to code, and built a startup"](https://medium.freecodecamp.org/how-two-friends-changed-careers-learned-to-code-and-built-a-startup-e40c0b060de8)  
+_Katerina Pascoulis and Ruth Uwemedimo talk about what they learned from freelancing and why they love working together at Personably_
+
+["Something within me whispered: “Be the builder”](https://medium.freecodecamp.org/something-within-me-whispered-be-the-builder-9a47fcc013f)  
+_Former Gaza Code Academy facilitator Yasmin Hillis, a self-declared hippie at heart, talks about how Virginia Woolf inspired her to begin writing code_
