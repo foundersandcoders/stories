@@ -27,3 +27,6 @@ _Katerina Pascoulis and Ruth Uwemedimo talk about what they learned from freelan
 
 ["Something within me whispered: “Be the builder”](https://medium.freecodecamp.org/something-within-me-whispered-be-the-builder-9a47fcc013f)  
 _Former Gaza Code Academy facilitator Yasmin Hillis, a self-declared hippie at heart, talks about how Virginia Woolf inspired her to begin writing code_
+
+["How one nonprofit saved money while building a better digital platform for their users"](https://medium.freecodecamp.org/how-one-nonprofit-saved-money-while-building-a-better-digital-platform-for-their-users-de06b1b7ec62)   
+_An interview with Power to Change project manager Sonja Wiencke and Founders and Coders graduates Elias Malik and Aisha Nasir_
